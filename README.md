@@ -1,16 +1,17 @@
 # Review your python code
-Let's write python code efficiently and elegantly
+- :blue_heart: Let's write python code efficiently and elegantly
 
-编写高效，优雅的python代码!
+    :purple_heart: 编写高效，优雅的python代码!
 
-Python is one of the most popular programming languages, and it's easy to understand. It's assumed that you're able to 
+- :heart: Python is one of the most popular programming languages, and it's easy to understand. It's assumed that you're able to 
 write python code, but the problem lies in how to write it well, namely efficiently, elegantly, easy to read for others 
 and name the variable properly.
 
-Python是最受欢迎的编程语言之一，易上手，好理解。很多人可以编写一些能够运行Python代码，但是我们希望代码能运行的更加高效，写的更加规范，
+    :green_heart: Python是最受欢迎的编程语言之一，易上手，好理解。很多人可以编写一些能够运行Python代码，但是我们希望代码能运行的更加高效，写的更加规范，
 易读，这也是本repo的目的所在。
 ## Contents
 
+repo主要关注对于Python常用模块提高效率方法的介绍，以及代码的常用规范，持续更新，欢迎Star, Issue, Pull requests
 - :syringe: [numpy](https://github.com/rongliangzi/review_your_python_code/tree/master/numpy_dir/numpy_insight.md)
 - :droplet: [string](https://github.com/rongliangzi/review_your_python_code/tree/master/string_dir/string_insight.md)
 - :cow: [list](https://github.com/rongliangzi/review_your_python_code/tree/master/list_dir/list_insight.md)
