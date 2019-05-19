@@ -13,10 +13,10 @@ and name the variable properly.
 
 repo主要关注对于Python常用模块提高效率方法的介绍，以及代码的常用规范，持续更新，欢迎Star, Issue, Pull requests
 - :syringe: [numpy](./numpy_dir/numpy_insight.md)
-- :droplet: [string](https://github.com/rongliangzi/review_your_python_code/tree/master/string_dir/string_insight.md)
-- :cow: [list](https://github.com/rongliangzi/review_your_python_code/tree/master/list_dir/list_insight.md)
-- :beer: [copy](https://github.com/rongliangzi/review_your_python_code/tree/master/copy_dir/copy_insight.md)
-- :tongue: [built-in funcs](https://github.com/rongliangzi/review_your_python_code/tree/master/built_in_func_dir/built_in_func_insight.md)
+- :droplet: [string](./string_dir/string_insight.md)
+- :cow: [list](./list_dir/list_insight.md)
+- :beer: [copy](./copy_dir/copy_insight.md)
+- :tongue: [built-in funcs](./built_in_func_dir/built_in_func_insight.md)
 - :dog: to be continued
 
 ## Examples
