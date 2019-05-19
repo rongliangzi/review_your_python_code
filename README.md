@@ -12,7 +12,7 @@ and name the variable properly.
 ## Contents
 
 repo主要关注对于Python常用模块提高效率方法的介绍，以及代码的常用规范，持续更新，欢迎Star, Issue, Pull requests
-- :syringe: [numpy](https://github.com/rongliangzi/review_your_python_code/tree/master/numpy_dir/numpy_insight.md)
+- :syringe: [numpy](./numpy_dir/numpy_insight.md)
 - :droplet: [string](https://github.com/rongliangzi/review_your_python_code/tree/master/string_dir/string_insight.md)
 - :cow: [list](https://github.com/rongliangzi/review_your_python_code/tree/master/list_dir/list_insight.md)
 - :beer: [copy](https://github.com/rongliangzi/review_your_python_code/tree/master/copy_dir/copy_insight.md)
