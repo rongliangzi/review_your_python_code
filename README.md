@@ -11,11 +11,11 @@ Python是最受欢迎的编程语言之一，易上手，好理解。很多人�
 易读，这也是本repo的目的所在。
 ## Contents
 
-- :syringe: [numpy](https://github.com/rongliangzi/review_your_python_code/blob/master/numpy_dir/numpy_insight.md)
-- :droplet: [string](https://github.com/rongliangzi/review_your_python_code/blob/master/string_dir/string_insight.md)
-- :cow: [list](https://github.com/rongliangzi/review_your_python_code/blob/master/list_dir/list_insight.md)
-- :beer: [copy](https://github.com/rongliangzi/review_your_python_code/blob/master/copy_dir/copy_insight.md)
-- :tongue: [built-in funcs](https://github.com/rongliangzi/review_your_python_code/blob/master/built_in_func_dir/built_in_func_insight.md)
+- :syringe: [numpy](https://github.com/rongliangzi/review_your_python_code/tree/master/numpy_dir/numpy_insight.md)
+- :droplet: [string](https://github.com/rongliangzi/review_your_python_code/tree/master/string_dir/string_insight.md)
+- :cow: [list](https://github.com/rongliangzi/review_your_python_code/tree/master/list_dir/list_insight.md)
+- :beer: [copy](https://github.com/rongliangzi/review_your_python_code/tree/master/copy_dir/copy_insight.md)
+- :tongue: [built-in funcs](https://github.com/rongliangzi/review_your_python_code/tree/master/built_in_func_dir/built_in_func_insight.md)
 - :dog: to be continued
 
 ## Examples
@@ -24,7 +24,7 @@ For example, original code is:
 for s in str_list:
     str_a += s
 ```
-.join() is more efficient than += for string connection, so it's better to write like:
+`.join()` is more efficient than `+=` for string connection, so it's better to write like:
 ```
 str_a = ''.join(a)
 ```
@@ -39,7 +39,7 @@ Class appletree():
     def leaf():
         pass
 ```
-We usually use Camel-Case in class name, that is, it's better to define the class like this:
+We usually use `Camel-Case` in class name, that is, it's better to define the class like this:
 ```
 Class AppleTree():
     def leaf():
