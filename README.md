@@ -17,7 +17,8 @@ repo主要关注对于Python常用模块提高效率方法的介绍，以及代�
 - :cow: [list](./list_dir/list_insight.md)
 - :beer: [copy](./copy_dir/copy_insight.md)
 - :tongue: [built-in funcs](./built_in_func_dir/built_in_func_insight.md)
-- :dog: to be continued
+- :dog: [name](./name_dir/name_insight.md)
+- :star: [to be continued]()
 
 ## Examples
 For example, original code is:
