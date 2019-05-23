@@ -5,6 +5,7 @@
 - copy.copy() is shallow copy, which just store the contents of raw not containing sub-variable. For the contents
 containing sub-variables, it choose to point at the same memory block just as '=' does, such as raw[1]=[2, 3]
 - copy.deepcopy() is deep copy, which create a memory block to store the whole contents of raw 
+
 :star: we can call func `id()` to check the memory address
 
 ```

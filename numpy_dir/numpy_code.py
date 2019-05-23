@@ -25,5 +25,14 @@ def get_np_list(size=(200, 100), iteration=100):
     print('time(s) for list_matrix: ', time.time()-last_time)
 
 
+# built-in flip and reverse
+def flip():
+    raw = np.eye(4)
+    raw_flip_lr = np.fliplr(raw)
+    raw_reversed_lr = raw[:, ::-1, ...]
+    raw_flip_ud = np.flipud(raw)
+    raw_reversed_ud = raw[::-1, ...]
+
+
 if __name__ == '__main__':
     get_np_list()
