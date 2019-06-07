@@ -13,11 +13,11 @@ def copy_deepcopy():
     a = range(10000)
     last_time = time.time()
     for i in range(10000):
-        b = copy.copy(a)
+        _ = copy.copy(a)
     print('time(s) for copy: ', time.time() - last_time)
     last_time = time.time()
     for i in range(10000):
-        b = copy.deepcopy(a)
+        _ = copy.deepcopy(a)
     print('time(s) for deepcopy: ', time.time() - last_time)
 
 

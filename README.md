@@ -7,8 +7,14 @@
 write python code, but the problem lies in how to write it well, namely efficiently, elegantly, easy to read for others 
 and name the variable properly.
 
-    :green_heart: Python是最受欢迎的编程语言之一，易上手，好理解。很多人可以编写一些能够运行Python代码，但是我们希望代码能运行的更加高效，写的更加规范，
+- :green_heart: Python是最受欢迎的编程语言之一，易上手，好理解。很多人可以编写一些能够运行Python代码，但是我们希望代码能运行的更加高效，写的更加规范，
 易读，这也是本repo的目的所在。
+
+
+---
+一些参考资料
+- 关于python效率和性能的分析 [[python性能优化]](https://www.cnblogs.com/xybaby/p/6510941.html)
+- 定位程序性能瓶颈 [[Python 代码性能优化技巧]](https://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/)
 ## Contents
 
 repo主要关注对于Python常用模块提高效率方法的介绍，以及代码的常用规范，持续更新，欢迎Star, Issue, Pull requests
